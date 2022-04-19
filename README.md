@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugochianoka
 - 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me uanoka@gmail.com
 
